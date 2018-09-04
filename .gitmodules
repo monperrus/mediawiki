@@ -742,3 +742,15 @@
 	path = extensions/CentralNotice
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CentralNotice
 	branch = wmf_deploy
+[submodule "extensions/SkinPerPage"]
+	path = extensions/SkinPerPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SkinPerPage
+	branch = wmf/1.32.0-wmf.19
+[submodule "extensions/EUCopyrightCampaign"]
+	path = extensions/EUCopyrightCampaign
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/EUCopyrightCampaign
+	branch = wmf/1.32.0-wmf.19
+[submodule "skins/EUCopyrightCampaignSkin"]
+	path = skins/EUCopyrightCampaignSkin
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/EUCopyrightCampaignSkin
+	branch = wmf/1.32.0-wmf.19
